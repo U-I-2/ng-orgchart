@@ -1,6 +1,6 @@
 {
-  "name": "ng-orgchart",
-  "version": "0.0.0",
+  "name": "ng-orgchart-ui2",
+  "version": "1.0.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~8.0.0",
     "@angular/common": "~8.0.0",
@@ -47,5 +47,17 @@
     "tsickle": "^0.35.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
-  }
+  },
+  "description": "![OrgChart](http://dabeng.github.io/OrgChart/img/heading.svg) # [jQuery Version](https://github.com/dabeng/OrgChart) # [ES6 Version](http://github.com/dabeng/OrgChart.js) # [Web Components Version](http://github.com/dabeng/OrgChart-Webcomponents) # [Vue.js Version](https://github.com/dabeng/vue-orgchart) # [React Version](https://github.com/dabeng/react-orgchart)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/U-I-2/ng-orgchart.git"
+  },
+  "author": "UI2 <info@ui2.com.br> (https://ui2.com.br)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/U-I-2/ng-orgchart/issues"
+  },
+  "homepage": "https://github.com/U-I-2/ng-orgchart#readme"
 }
