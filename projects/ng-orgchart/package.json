@@ -1,7 +1,7 @@
 {
   "name": "ng-orgchart-ui2",
   "description": "organization chart component based angular",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "peerDependencies": {
     "@angular/common": "^11.0.6",
     "@angular/core": "^11.0.6"
