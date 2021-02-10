@@ -1,4 +1,4 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 
 import { PanZoomChartComponent } from './pan-zoom-chart.component';
 
@@ -6,7 +6,7 @@ describe('PanZoomChartComponent', () => {
   let component: PanZoomChartComponent;
   let fixture: ComponentFixture<PanZoomChartComponent>;
 
-  beforeEach(async(() => {
+  beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
       declarations: [ PanZoomChartComponent ]
     })
